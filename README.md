@@ -1,81 +1,237 @@
-<img width="2048" height="682" alt="logo-sit-tecnologias" src="https://github.com/user-attachments/assets/7345910c-536b-424f-828e-76a939879396" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7345910c-536b-424f-828e-76a939879396" alt="SIT Tecnologias" width="360">
+</p>
 
-<img width="1600" height="1000" alt="baixa-fidelidade" src="https://github.com/user-attachments/assets/1ca190d4-d066-4b9f-ac32-210b4a51c4d2" />
+<h1 align="center">EducaFAM</h1>
 
-<img width="1600" height="1000" alt="media-fidelidade" src="https://github.com/user-attachments/assets/939bc3ce-7182-4c27-b247-3248327212a0" />
+<p align="center">
+  <strong>Gestão Financeira Familiar e Educação Financeira Infantil</strong>
+</p>
 
+<p align="center">
+  Sistema colaborativo com gamificação para crianças, missões e metas de poupança.
+</p>
 
+<p align="center">
+  <a href="https://stephanie-sedlaczek.github.io/EducaFAM/">🌐 Acessar o site</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/stephanie-Sedlaczek/EducaFAM">💻 GitHub</a>
+</p>
 
-# EducaFAM — Projeto Integrador
+---
 
-## Problema
+## 📌 Sobre o projeto
+
+O **EducaFAM** é um sistema voltado para a gestão financeira familiar e a educação financeira infantil.
+
+A proposta é permitir que responsáveis organizem suas finanças e, ao mesmo tempo, envolvam as crianças em atividades práticas por meio de **missões, metas, recompensas, XP e cofrinho virtual**.
+
+## 🎯 Problema
+
 Famílias podem ter dificuldade para organizar receitas, despesas e objetivos financeiros e, ao mesmo tempo, envolver crianças em situações práticas de educação financeira.
 
-## Público-alvo
+## 👥 Público-alvo
+
 Famílias com crianças em idade escolar e responsáveis que desejam transformar planejamento, economia e tomada de decisão financeira em uma atividade compartilhada.
 
-## Funcionalidades desta versão
-- Cadastro de família e login real no navegador com Web Crypto API (PBKDF2 + salt).
-- Perfil Responsável e perfil Criança com PIN de 4 dígitos.
-- Proteção de rotas e expiração da sessão por 30 minutos de inatividade.
-- Dashboard financeiro e familiar.
-- Receitas, despesas, edição, exclusão com desfazer, categorias, recorrências e parcelamentos.
+---
+
+## ✨ Funcionalidades
+
+### 👨‍👩‍👧 Perfis e acesso
+
+- Cadastro de família.
+- Perfil de responsável.
+- Perfil de criança com PIN.
+- Proteção de rotas.
+- Controle de sessão.
+- Experiência infantil diferenciada.
+
+### 💰 Gestão financeira
+
+- Cadastro de receitas e despesas.
+- Edição e exclusão de lançamentos.
+- Categorias personalizadas.
+- Lançamentos recorrentes.
+- Parcelamentos.
+- Orçamento por categoria.
+- Alertas de orçamento.
 - Importação e exportação CSV.
-- Metas familiares e individuais, prazo, histórico de contribuições e estimativa de conclusão.
-- Missões por tipo, prazo, XP, criança, estados e aprovação/recusa.
-- Missões de registro de despesa e poupança integradas às finanças/metas.
-- Histórico de XP, níveis e notificações internas.
-- Experiência infantil separada dentro do `index.html`.
-- Cofrinho e contribuição da criança para metas familiares.
-- Relatórios com gráficos em SVG, comparação mensal, insights e impressão/PDF.
-- Orçamentos por categoria com alertas de 80% e 100%.
-- Backup/importação JSON com versão de esquema e migração básica.
-- Favicon, meta description, noscript, página 404 e PWA opcional.
-- Acessibilidade: skip link, foco visível, modal com ARIA, focus trap e Esc.
 
-## Estrutura
-- `index.html` — dashboard / espaço infantil
-- `login.html` — login e cadastro
-- `financas.html` — lançamentos e orçamento
-- `metas.html` — metas e contribuições
-- `missoes.html` — missões e aprovação
-- `criancas.html` — perfis infantis
-- `relatorios.html` — análises e gráficos
-- `configuracoes.html` — família, categorias, orçamento e backup
-- `404.html` — página não encontrada
-- `css/styles.css` — identidade visual e responsividade
-- `js/data.js` — persistência, modelo e criptografia
-- `js/app.js` — interface e regras de negócio
-- `docs/` — documentação do Projeto Integrador
+### 🎯 Metas
 
-## Como executar
-1. Extraia o projeto.
+- Criação de metas familiares.
+- Criação de metas individuais.
+- Definição de valor e prazo.
+- Acompanhamento do progresso.
+- Histórico de contribuições.
+- Estimativa de conclusão.
+- Contribuição da criança para metas.
+
+### 🎮 Missões e gamificação
+
+- Criação de missões.
+- Diferentes tipos de missão.
+- Definição de XP.
+- Atribuição para crianças.
+- Prazo para conclusão.
+- Aprovação ou rejeição pelo responsável.
+- Histórico de XP.
+- Sistema de níveis.
+- Cofrinho virtual.
+
+### 📊 Relatórios
+
+- Gráficos financeiros.
+- Comparação mensal.
+- Acompanhamento de metas.
+- Evolução de XP.
+- Insights financeiros.
+- Impressão e geração de PDF.
+
+---
+
+## 🎨 Marca e identidade visual
+
+**Empresa:** SIT Tecnologias  
+**Produto:** EducaFAM
+
+A identidade visual do sistema utiliza uma base profissional em tons de azul, com cores complementares para representar sucesso, atenção, metas e recompensas.
+
+---
+
+# 📐 Protótipos
+
+## Baixa fidelidade
+
+Representação inicial da estrutura e organização das principais telas do sistema.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1ca190d4-d066-4b9f-ac32-210b4a51c4d2" alt="Protótipo de baixa fidelidade" width="850">
+</p>
+
+---
+
+## Média fidelidade
+
+Representação visual das telas do EducaFAM, utilizando a estrutura e a identidade visual definidas para o projeto.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/939bc3ce-7182-4c27-b247-3248327212a0" alt="Protótipo de média fidelidade" width="850">
+</p>
+
+---
+
+## 🧱 Estrutura do projeto
+
+```text
+EducaFAM/
+│
+├── index.html
+├── login.html
+├── financas.html
+├── metas.html
+├── missoes.html
+├── criancas.html
+├── relatorios.html
+├── configuracoes.html
+├── 404.html
+│
+├── css/
+│   └── styles.css
+│
+├── js/
+│   ├── app.js
+│   └── data.js
+│
+└── docs/
+    ├── requisitos.md
+    ├── casos-de-uso.md
+    ├── modelo-de-dados.md
+    ├── fluxo-de-telas.md
+    ├── rastreabilidade.md
+    └── plano-de-testes.md
+```
+
+---
+
+## 🛠️ Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript
+- Web Crypto API
+- LocalStorage
+- SVG
+- Git
+- GitHub
+
+O projeto foi desenvolvido sem frameworks ou bibliotecas externas na aplicação principal.
+
+---
+
+## ▶️ Como executar
+
+1. Clone ou baixe o repositório.
 2. Abra a pasta no VS Code.
-3. Use Live Server ou outro servidor HTTP local para testar o PWA e o `service worker`.
+3. Execute utilizando o Live Server ou outro servidor HTTP local.
 4. Abra `login.html`.
-5. Para testar a conta de demonstração, use manualmente:
-   - E-mail: `familia@educafam.local`
-   - Senha: `123456`
-6. Para testar as crianças, entre como responsável e use o botão “Entrar como criança”. Os perfis demo usam PIN `1234`.
 
-> O login não possui campos pré-preenchidos. As credenciais acima existem apenas para facilitar a demonstração.
+### Conta de demonstração
 
-## Decisões técnicas
-O projeto usa HTML5, CSS3 e JavaScript puro. O armazenamento é local via LocalStorage, sem frameworks, bibliotecas ou backend. Senhas e PINs são armazenados como hash PBKDF2-SHA-256 com salt usando Web Crypto API.
+**E-mail:** `familia@educafam.local`  
+**Senha:** `123456`
 
-## Limitações
-- Não existe backend.
-- O LocalStorage é específico do navegador/dispositivo.
-- Não há colaboração real entre dispositivos.
-- A autenticação é adequada para protótipo acadêmico, não para produção.
-- Dados de menores ficam localmente no navegador; não devem ser usados com dados reais sem uma arquitetura de segurança e privacidade adequada.
+Para os perfis infantis:
 
-## Roadmap
-1. Backend e banco de dados.
-2. Autenticação server-side e sincronização entre dispositivos.
-3. Colaboração real entre membros da família.
-4. Notificações externas.
-5. Política de privacidade completa e revisão jurídica.
+**PIN:** `1234`
 
-## Créditos
-Projeto acadêmico EducaFAM — Projeto Integrador de Design Profissional.
+---
+
+## 🌐 Site
+
+O EducaFAM está publicado através do GitHub Pages:
+
+**https://stephanie-sedlaczek.github.io/EducaFAM/**
+
+---
+
+## 📚 Documentação
+
+A documentação técnica do projeto está disponível na pasta `docs/`.
+
+- Requisitos
+- Casos de uso
+- Modelo de dados
+- Fluxo de telas
+- Rastreabilidade
+- Plano de testes
+
+---
+
+## ⚠️ Limitações
+
+- O projeto atualmente não possui backend.
+- Os dados são armazenados no LocalStorage.
+- Não existe sincronização entre dispositivos.
+- A autenticação foi desenvolvida para fins acadêmicos.
+- Não deve ser utilizado com dados reais de menores em ambiente de produção.
+
+---
+
+## 🚀 Roadmap
+
+- Backend e banco de dados.
+- Autenticação server-side.
+- Sincronização entre dispositivos.
+- Colaboração em tempo real.
+- Notificações externas.
+- Política de privacidade completa.
+
+---
+
+## 👥 Créditos
+
+**SIT Tecnologias**
+
+Projeto acadêmico **EducaFAM — Projeto Integrador de Design Profissional**.
