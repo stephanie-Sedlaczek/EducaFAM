@@ -77,16 +77,5 @@ O projeto usa HTML5, CSS3 e JavaScript puro. O armazenamento é local via LocalS
 4. Notificações externas.
 5. Política de privacidade completa e revisão jurídica.
 
-## Checklist do enunciado
-- [ ] Pesquisa primária — falta executar/documentar.
-- [ ] Protótipo de baixa fidelidade — falta anexar artefato final.
-- [ ] Protótipo de alta fidelidade — falta anexar artefato final.
-- [x] Desenvolvimento web funcional local.
-- [x] HTML/CSS/JavaScript puro.
-- [x] LocalStorage.
-- [x] Git/GitHub — preparar publicação/repositório final.
-- [x] Documentação técnica inicial em `docs/`.
-- [x] Execução local.
-
 ## Créditos
 Projeto acadêmico EducaFAM — Projeto Integrador de Design Profissional.
