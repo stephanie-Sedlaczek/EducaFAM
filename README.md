@@ -1,3 +1,8 @@
+<img width="1600" height="1000" alt="media-fidelidade" src="https://github.com/user-attachments/assets/2723fdb5-8e35-465b-ac6d-f720190b405a" />
+<img width="1600" height="1000" alt="baixa-fidelidade" src="https://github.com/user-attachments/assets/79cb0a4b-dae2-4f61-83d3-ac74acbb46eb" />
+<img width="1600" height="1000" alt="media-fidelidade" src="https://github.com/user-attachments/assets/1af41be8-6cb8-4b6f-8ab1-3b85aeb959b4" />
+
+
 # EducaFAM — Projeto Integrador
 
 ## Problema
