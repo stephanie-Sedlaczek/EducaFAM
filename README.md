@@ -1,6 +1,9 @@
-<img width="1600" height="1000" alt="media-fidelidade" src="https://github.com/user-attachments/assets/2723fdb5-8e35-465b-ac6d-f720190b405a" />
-<img width="1600" height="1000" alt="baixa-fidelidade" src="https://github.com/user-attachments/assets/79cb0a4b-dae2-4f61-83d3-ac74acbb46eb" />
-<img width="1600" height="1000" alt="media-fidelidade" src="https://github.com/user-attachments/assets/1af41be8-6cb8-4b6f-8ab1-3b85aeb959b4" />
+<img width="2048" height="682" alt="logo-sit-tecnologias" src="https://github.com/user-attachments/assets/7345910c-536b-424f-828e-76a939879396" />
+
+<img width="1600" height="1000" alt="baixa-fidelidade" src="https://github.com/user-attachments/assets/1ca190d4-d066-4b9f-ac32-210b4a51c4d2" />
+
+<img width="1600" height="1000" alt="media-fidelidade" src="https://github.com/user-attachments/assets/939bc3ce-7182-4c27-b247-3248327212a0" />
+
 
 
 # EducaFAM — Projeto Integrador
